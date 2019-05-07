@@ -54,7 +54,7 @@
             // lblResult
             // 
             this.lblResult.AutoSize = true;
-            this.lblResult.Font = new System.Drawing.Font("Noto Sans CJK KR Regular", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.lblResult.Font = new System.Drawing.Font("Noto Sans CJK KR Regular", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.lblResult.Location = new System.Drawing.Point(19, 146);
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(60, 28);
